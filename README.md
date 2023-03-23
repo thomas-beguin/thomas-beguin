@@ -1,4 +1,5 @@
-### Bonjour 🖖, je m'appelle Thomas Béguin
+### Bonjour, je suis Thomas Béguin
+
 
 **👨‍💻 Présentation**
 
