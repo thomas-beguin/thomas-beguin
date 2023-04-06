@@ -9,7 +9,7 @@ Consultant sénior IT depuis quatre ans, j'ai toujours été attiré par les enj
 
 **👨‍💻 Technologies & stack**
 
-<p align="left"> 
+<div align="left">
    
   <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> 
@@ -49,6 +49,12 @@ Consultant sénior IT depuis quatre ans, j'ai toujours été attiré par les enj
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
   </a> 
+   
+   <a href="https://scalingo.com" target="_blank" rel="noreferrer"> 
+    <img src="https://user-images.githubusercontent.com/107207796/230320741-65f094c7-a722-4773-8c36-0369d24dbba0.svg" alt="scalingo" width="40" height="40"/> 
+  </a> 
+   
+</div>
   
 **📙 Mes lectures**
  
